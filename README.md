@@ -11,7 +11,11 @@ A responsive React.js application that fetches Pokémon data from the [PokéAPI]
 
 ## Screenshots
 ### Home Page
-![Home Page Screenshot](https://via.placeholder.com/800x400)
+
+![Screenshot (140)](https://github.com/user-attachments/assets/a57605af-0535-467a-9e9d-47aeb9feb11f)
+
+![Screenshot (141)](https://github.com/user-attachments/assets/6fcfec1a-c88f-4897-be5b-0b95f8dc69ad)
+
 
 ---
 
